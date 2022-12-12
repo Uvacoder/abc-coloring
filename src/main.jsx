@@ -76,8 +76,8 @@ class App extends Component {
     return <div id="content">
       <header>
         <div>
-          <h1>IRO</h1>
-          <span>Amazing color tools</span>
+          <h1>uvacoder</h1>
+          <span>Colortool lite</span>
         </div>
         <img src={(contrastResult === "white") ? IconWhite : IconBlack} alt=""/>
       </header>
